@@ -1,0 +1,15 @@
+/* BackGrounds */
+
+.bg-hyper {
+    color: #fff;
+    background: linear-gradient(to right, rgb(236, 72, 153), rgb(239, 68, 68), rgb(234, 179, 8));
+}
+
+.bg-ocean {
+    color: #fff;
+    background: linear-gradient(to right, rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234));
+}
+
+
+
+/* Buttons */
